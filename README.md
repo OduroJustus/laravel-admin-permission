@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# laravel-admin-permission
+Welcome to the Laravel Spatie Permission Admin System repository! This powerful administration system is built on top of Laravel and the Spatie Permission package, designed to provide seamless user and role management for your web applications.
+>>>>>>> 80d4ac936f3cc4c45a564a82a2b23e570c45df75
